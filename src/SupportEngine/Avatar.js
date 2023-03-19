@@ -7,15 +7,15 @@ const Avatar = props => {
 
     return (
         <div style={props.style}>
-            {/* <div 
+            <div 
                 className='transition-3'
                 style={{
                     ...styles.avatarHello,
                     ...{ opacity: hovered ? '1' : '0' }
                 }}
             >
-                Scit Committee 2023/24, Welcome 
-            </div> */}
+                Send a query
+            </div>
 
             <div 
                 onMouseEnter={() => setHovered(true)}
