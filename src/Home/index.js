@@ -28,9 +28,9 @@ export const htmlCode = `
                   <div class="dorik-navbar--brand">
                     <a
                       ><img
-                        src="https://cdn.dorik.com/5e373b6c43a72a001f56dbf6/images/dPay_pjbcb488.svg"
+                        src="https://th.bing.com/th/id/OIP.VGNrJj9xN-KP7VydAgZztgHaH-?pid=ImgDet&rs=1"
                         width="80px"
-                    /></a>
+                      /></a>
                   </div>
                   <button
                     class="dorik-navbar--toggle"
@@ -61,7 +61,7 @@ export const htmlCode = `
                         <li class="">
                           <a href="#features" class="dorik-nav--link features"
                             ><span class="dorik-nav--link-text"
-                              >Features</span
+                              >Chat</span
                             ></a
                           >
                         </li>
@@ -70,14 +70,14 @@ export const htmlCode = `
                             href="#testimonials"
                             class="dorik-nav--link testimonials"
                             ><span class="dorik-nav--link-text"
-                              >Testimonials</span
+                              >Links</span
                             ></a
                           >
                         </li>
                         <li class="">
                           <a href="#team" class="dorik-nav--link pricing"
                             ><span class="dorik-nav--link-text"
-                              >Pricing</span
+                              >Committee</span
                             ></a
                           >
                         </li>
@@ -88,7 +88,7 @@ export const htmlCode = `
                             href="#"
                             class="dorik-nav--btn dorik-nav--btn-a9h97xdg contact-sales"
                             ><span class="dorik-nav--btn-text"
-                              >Contact Sales</span
+                              >Login</span
                             ></a
                           >
                         </li>
@@ -107,17 +107,16 @@ export const htmlCode = `
             <div class="column-inner dorik-column-7sc812n1  1/1">
               <div class="dorik-wrapper dorik-heading-wahmdk55-wrapper ">
                 <h1 class="dorik-heading dorik-heading-wahmdk55 ">
-                  <span>The New Smart Finance & Payment Platform</span>
+                  <span>The School of Computing and Information Technology</span>
                 </h1>
               </div>
               <div class="dorik-text dorik-text-s2wjxpc0 ">
-                Network effects pitch holy grail niche market non-disclosure
-                agreement long tail assets. Bandwidth branding seed round
-                vesting period technology.
+                Lorem ipsum dolor sit amet, consectetur adip
+                Lorem ipsum dolor sit amet, consectetur adip
               </div>
               <div class="dorik-button-ra0ilohg-wrapper  ">
                 <button class="dorik-btn dorik-button-ra0ilohg ">
-                  Contact Sales
+                  CHAT
                 </button>
               </div>
             </div>
